@@ -3,14 +3,14 @@
 
 - 🌱 I’m currently learning **C/C++, Python, web frameworks like Django, Linux, improving my Git/Github skills.**
 
-- 📫 How to reach me **Email: ryandavidrsw@gmail.com**
+- 📫 How to reach me **ryandavidrsw@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/http://www.linkedin.com/in/ryan-david-97a16b26b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://www.linkedin.com/in/ryan-david-97a16b26b" height="30" width="40" /></a>
-<a href="https://instagram.com/@rsilv97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@rsilv97" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ryann0097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ryann0097" height="30" width="40" /></a>
-<a href="https://discord.gg/onewtoniano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="onewtoniano" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/rsilv97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rsilv97/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/ryann0097/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ryann0097/" height="30" width="40" /></a>
+<a href="https://discord.gg/1054156124875653160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1054156124875653160" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
