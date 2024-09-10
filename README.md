@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ryan Silvestre</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a technology enthusiast passionate about programming and computer science. Here, you'll find a collection of my projects, experiences, and learnings in the world of computing.</h3>
 
-- 🌱 I’m currently learning **C/C++, Python, web frameworks like Django, Linux, improving my Git/Github skills.**
+- 🌱 I’m currently learning **C/C++, Python, SQLite, GTK+/Glade, Linux, improving my Git/Github skills.**
 
 - 📫 How to reach me **ryandavidrsw@gmail.com**
 
